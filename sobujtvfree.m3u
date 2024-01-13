@@ -3,11 +3,10 @@
 facebook https://www.facebook.com/nisobuj00
 
 #EXTM3U url-tvg=""
-#EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",ZEE BANGLA FHD
-https://d75dqofg5kmfk.cloudfront.net/bpk
--tv/Zeebanglahd/default/index.m3u8
+#EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/kWtin3o.png",ZEE BANGLA FHD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 
-#EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",ZEE BANGLA SD
+#EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/kWtin3o.png",ZEE BANGLA SD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 
 #EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",STAR JALSHA-2 FHD
@@ -28,7 +27,7 @@ http://103.132.181.118:82/play/a009
 #EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",ENTER 10 BANGLA
 https://dangalplaycdn.vidgyor.com/pub-iobanglakp3sff/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://www.pngwing.com/en/free-png-bbzaq",JALSHA MOVIES HD
+#EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/oOIlGcL.png",JALSHA MOVIES HD
 http://103.132.181.118:82/play/a004
 
 #EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",ZEE BANGLA CINEMA
@@ -353,7 +352,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallbac
 #EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png"",NICKELODEON FAV
 http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/102474
 
-#EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Disney_Channel_logo.svg",DISNEY CHANNEL
+#EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/Zhhw9B8.png",DISNEY CHANNEL
 http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96278
 
 #EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",DISNEY INTERNATIONAL HD
@@ -403,7 +402,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 
 
 
-Powered by N.I Sobuj
+TV-195+ tv power by N.I Sobuj
 
 #EXTINF:-1 group-title="Powered By N.I. Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png", Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
@@ -805,7 +804,7 @@ https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/i
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 
-#Own Logo & Category by NI Sobuj
+#Tv-208 With Own Logo & Category by NI Sobuj
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.PNG" group-title="Bangladeshi" ,Deepto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
@@ -2093,8 +2092,3 @@ All Right Reseve by N>I>S
 
 follow facebook
 www.facebook.com/nisobuj00
-
-
-
-
-
