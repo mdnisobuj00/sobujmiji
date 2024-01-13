@@ -213,6 +213,7 @@ http://103.132.181.118:82/play/a00n
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Indian Bangla By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Dhoom Music 
 
+
 #EXTINF:-1 group-title="Indian Bangla By Sobuj @nisobuj00" tvg-logo="https://i.postimg.cc/T1cYFfqg/image.jpg",Tv9
 https://vg-tv9yupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-563504/afbca502-56e1-42a8-b4c4-63ebbf0afb76/2.m3u8
 #EXTINF:-1 group-title="Indian Bangla By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/TVX54be.jpg",Eten TV
@@ -996,6 +997,14 @@ https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-5
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ @NISOBUJ00", Sports18 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="News By Sobuj @nisobuj00", Aljazeera Arabic
+https://www.bioscopelive.com/channel/aljazeera-arabic?contentUuid=dbb6c471-6bb7-4032-94b0-1cfa4c901efa
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon By Sobuj @nisobuj00", Nick Bangla
+https://www.bioscopelive.com/channel/nickelodeon?contentUuid=3a980e48-4495-407e-b422-ad7633bae4dd
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon By Sobuj @nisobuj00", Sonic
+https://www.bioscopelive.com/channel/sonic?contentUuid=0847a7cb-a497-4574-91fc-ee5669e40f25
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ @NISOBUJ00", Sports18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
