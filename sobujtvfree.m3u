@@ -1002,6 +1002,9 @@ https://www.bioscopelive.com/channel/aljazeera-arabic?contentUuid=dbb6c471-6bb7-
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon By Sobuj @nisobuj00", Nick Bangla
 https://www.bioscopelive.com/channel/nickelodeon?contentUuid=3a980e48-4495-407e-b422-ad7633bae4dd
 
+#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon By Sobuj @nisobuj00", Nick Bangla
+http://109.182.9.186:1234/udp/232.4.3.11:5002
+
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon By Sobuj @nisobuj00", Sonic
 https://www.bioscopelive.com/channel/sonic?contentUuid=0847a7cb-a497-4574-91fc-ee5669e40f25
 
@@ -1013,7 +1016,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/in
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ @NISOBUJ00", Arena Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT: http-referrer=https://olalivehdplay.ru/
 https://ddh1.webhd.ru/ddh1/premium432/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ @NISOBUJ00", Arena Sports 2
@@ -1463,6 +1466,13 @@ https://nayeem-ayna1.000webhostapp.com/aynax.php?id=68&e=.m3u8|User-Agent=nayeem
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=69&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" tvg-chno="70" group-title="Movies By Sobuj @nisobuj00",Sony YAY
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=70&e=.m3u8|User-Agent=nayeemxyz9
+
+#EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" tvg-chno="70" group-title="Movies By Sobuj @nisobuj00",Sony YAY
+https://www.detailszone.com/2020/04/sony-network-iptv-m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" tvg-chno="70" group-title="Movies By Sobuj @nisobuj00",Sony YAY
+http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
+
 #EXTINF:-1 tvg-id="71" tvg-name="Sony Max HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1071c4ad-c6ef-4f9c-9f09-8f658bbae1ad_180x180_SonyMAXHD.jpg" tvg-chno="71" group-title="Movies By Sobuj @nisobuj00",Sony Max HD
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=71&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 tvg-id="72" tvg-name="BBC Earth" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg" tvg-chno="72" group-title="News By Sobuj @nisobuj00",BBC Earth
@@ -1575,6 +1585,13 @@ https://nayeem-ayna1.000webhostapp.com/aynax.php?id=124&e=.m3u8|User-Agent=nayee
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=125&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="Cartoon By Sobuj @nisobuj00",Nickelodeon-3
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=126&e=.m3u8|User-Agent=nayeemxyz9
+
+#EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="Cartoon By Sobuj @nisobuj00",Nickelodeon-4
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+
+#EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="Cartoon By Sobuj @nisobuj00",Nickelodeon-5
+http://103.55.144.46:80/hls/nick.m3u8
+
 #EXTINF:-1 tvg-id="127" tvg-name="Fox News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8f6cc61a-16f1-4f25-94bb-d525a550c598_180x180_fox-news.jpg" tvg-chno="127" group-title="News By Sobuj @nisobuj00",Fox News
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=127&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 tvg-id="128" tvg-name="Travel XP" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ad324d5e-84be-44b0-b8d8-f227a0ac1bf2_180x180_travelxp.jpg" tvg-chno="128" group-title="News By Sobuj @nisobuj00",Travel XP
@@ -2128,6 +2145,9 @@ http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/102474
 #EXTINF:-1 group-title="Cartoon By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/Zhhw9B8.png",DISNEY CHANNEL
 http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96278
 
+#EXTINF:-1 group-title="Cartoon By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/Zhhw9B8.png",DISNEY HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
+
 #EXTINF:-1 group-title="Cartoon By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/YMvLf6q.png",DISNEY INTERNATIONAL HD
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 
@@ -2265,4 +2285,3 @@ All Right Reseve by N>I>S
 
 follow facebook
 www.facebook.com/nisobuj00
-
