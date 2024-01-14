@@ -56,9 +56,9 @@ http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision 
+#EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo=" https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png",Bangla Vision 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
+#EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png",Boishakhi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
@@ -92,7 +92,7 @@ https://nayeem-ayna1.000webhostapp.com/aynax.php?id=13&e=.m3u8|User-Agent=nayeem
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png",Bijoy Tv
 http://cdn01.palki.tv/live/BijoyTV-M/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo="https://i.postimg.cc/YqfbV4jr/Z2QvpTn.png",Somay News
+#EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo=" https://cloudtv.akamaized.net/anyott/images/CMS_BD/2b7e4021-ff6b-4fb3-8a6e-36ff4388086d_180x180_8e4e88aa-10c0-4c91-8465-9c2ddad8b6e8.png",Somay News
 http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent 
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
@@ -546,7 +546,7 @@ http://103.81.104.51/hls/sptv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.PNG" group-title="Bangladeshi By Sobuj @nisobuj00", Bijoy TV
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.PNG" group-title="Bangladeshi By Sobuj @nisobuj00", Channel I HD
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png " group-title="Bangladeshi By Sobuj @nisobuj00", Channel I HD
 https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.PNG" group-title="Bangladeshi By Sobuj @nisobuj00", DBC News
@@ -2265,3 +2265,4 @@ All Right Reseve by N>I>S
 
 follow facebook
 www.facebook.com/nisobuj00
+
