@@ -2072,8 +2072,6 @@ http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:-1 group-title="Indian By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/YMvLf6q.png",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 group-title="Indian By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/YMvLf6q.png",BOLLYWOOD PRIME
-
 #EXTINF:-1 group-title="Indian By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/YMvLf6q.png",BOLLYWOOD CLASSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
@@ -2473,6 +2471,7 @@ http://170.254.18.106/MTV/index.m3u8
 http://170.254.18.106/TLC/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla By Sobuj @nisobuj00" tvg-logo="https://i.postimg.cc/wMKwP3H8/uP36aiN.jpg",Colors Bangla Cinema 
+https://edge4.bioscopelive.com/hls/anonymous/EEV9j-TVCLnxhn3gZUHPqg/1705431833/live-colors-bangla-cinema.m3u8
 
 new
 #EXTINF:-1 group-title=Indian Bangla By Sobuj @nisobuj00" tvg-logo=",Discovery Bangla
@@ -2498,6 +2497,7 @@ http://103.141.2.37:25461/live/web/web/588.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/colors_bangla_cinema/playlist.m3u8
 
 New Channel Added Toffee
+#
 [
   {
     "name": "Zee Bangla",
