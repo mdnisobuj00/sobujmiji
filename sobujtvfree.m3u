@@ -2492,7 +2492,10 @@ https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m
 
 #EXTINF:-1 group-title="Sports By Sobuj @nisobuj00" tvg-logo=",T Sports 7
 http://103.141.2.37:25461/live/web/web/588.m3u8
+#EXTINF:-1 group-title="Sports By Sobuj @nisobuj00" tvg-logo=",Colors Bangla Cinema
+https://bldcmprod-cdn.toffeelive.com/cdn/live/colors_bangla_cinema/playlist.m3u8
 
+New Channel Added Toffee
 [
   {
     "name": "Zee Bangla",
