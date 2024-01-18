@@ -1792,8 +1792,12 @@ http://103.132.181.118:82/play/a004
 #EXTINF:-1 group-title="Indian Bangla By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/YMvLf6q.png",ZEE BANGLA CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacine.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/YMvLf6q.png",COLORS BANGLA CINEMA
+#EXTINF:-1 group-title="Indian Bangla By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/YMvLf6q.png",Colors Bangal Cinema
 https://bdtubelive.xyz/bdix.m3u8?id=colors-bangla-cinema
+
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="Indian Bangla By Sobuj @nisobuj00", Colors Bangla Cinema HD
+https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
+
 
 #EXTINF:-1 group-title="Bangladeshi By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/YMvLf6q.png",SOMOY TV
 https://bdtubelive.xyz/bdix.m3u8?id=somoy-tv
