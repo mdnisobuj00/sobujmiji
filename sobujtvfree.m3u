@@ -974,7 +974,7 @@ https://bongohub.pw/bioscope.php?cc=nickelodeon
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon By Sobuj @nisobuj00", Nick Bangla
 http://109.182.9.186:1234/udp/232.4.3.11:5002
 
-#EXTINF:-1 group-title="Cartoon By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Yay
+#EXTINF:-1 group-title="Cartoon By Sobuj @nisobuj00" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg",Sony YaY Bangla
 https://bongohub.pw/bioscope.php?cc=sony-yay-live
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon By Sobuj @nisobuj00", Sonic
@@ -1110,7 +1110,6 @@ https://ddy4.webhd.ru/ddy4/premium427/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ @NISOBUJ00", SuperSport Football 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddh2.webhd.ru/ddh2/premium56/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ @NISOBUJ00", SuperSports Cricket 
@@ -1434,18 +1433,18 @@ https://nayeem-ayna1.000webhostapp.com/aynax.php?id=66&e=.m3u8|User-Agent=nayeem
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=67&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 tvg-id="68" tvg-name="A Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg" tvg-chno="68" group-title="Sports By Sobuj @nisobuj00",A Sports
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=68&e=.m3u8|User-Agent=nayeemxyz9
-#EXTINF:-1 tvg-id="69" tvg-name="HBO" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ca2ecac1-7447-46fe-9921-e6c3e37a8dc9_180x180_hbo.jpg" tvg-chno="69" group-title="Movies By Sobuj @nisobuj00",HBO
+#EXTINF:-1 tvg-id="69" tvg-name="HBO" tvg-country="BD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ca2ecac1-7447-46fe-9921-e6c3e37a8dc9_180x180_hbo.jpg" tvg-chno="69" group-title="Movies By Sobuj @nisobuj00",HBO
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=69&e=.m3u8|User-Agent=nayeemxyz9
-#EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" tvg-chno="70" group-title="Movies By Sobuj @nisobuj00",Sony YAY
+#EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-country="BD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" tvg-chno="70" group-title="Movies By Sobuj @nisobuj00",Sony YAY
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=70&e=.m3u8|User-Agent=nayeemxyz9
 
-#EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" tvg-chno="70" group-title="Movies By Sobuj @nisobuj00",Sony YAY
+#EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-country="BD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" tvg-chno="70" group-title="Movies By Sobuj @nisobuj00",Sony YAY
 https://www.detailszone.com/2020/04/sony-network-iptv-m3u8
 
-#EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" tvg-chno="70" group-title="Movies By Sobuj @nisobuj00",Sony YAY
+#EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-country="BD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" tvg-chno="70" group-title="Movies By Sobuj @nisobuj00",Sony YAY
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
 
-#EXTINF:-1 tvg-id="71" tvg-name="Sony Max HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1071c4ad-c6ef-4f9c-9f09-8f658bbae1ad_180x180_SonyMAXHD.jpg" tvg-chno="71" group-title="Movies By Sobuj @nisobuj00",Sony Max HD
+#EXTINF:-1 tvg-id="71" tvg-name="Sony Max HD" tvg-country="BD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1071c4ad-c6ef-4f9c-9f09-8f658bbae1ad_180x180_SonyMAXHD.jpg" tvg-chno="71" group-title="Movies By Sobuj @nisobuj00",Sony Max HD
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=71&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 tvg-id="72" tvg-name="BBC Earth" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg" tvg-chno="72" group-title="News By Sobuj @nisobuj00",BBC Earth
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=72&e=.m3u8|User-Agent=nayeemxyz9
