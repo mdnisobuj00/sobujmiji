@@ -2629,7 +2629,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:-1 ,9X JHAKAAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF:-1 group-title="BD",Wild Earth(BD)
+#EXTINF:-1 group-title="",Wild Earth(BD)
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,Travel XP HD(BD)
 http://b78e00fe.ottolok.net/iptv/ZFRMMY6UWRFLTT/9264/index.m3u8
@@ -2935,7 +2935,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1 ,Power Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Vevo Pop
+#EXTINF:-1 group-title="",Vevo Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 #EXTINF:-1 ,VH+1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -3111,19 +3111,19 @@ http://cdn01.palki.tv:80/live/NTV-M/index.fmp4.m3u8
 https://livess.jagobd.com.bd/live-orgin/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 ,News 24
 http://cdn01.palki.tv:80/live/News24-M/index.fmp4.m3u8
-#EXTINF:-1 group-title="INDIA",Zee India
+#EXTINF:-1 group-title="",Zee India
 http://103.120.172.74:1040
-#EXTINF:-1 group-title="INDIA",StarPlus
+#EXTINF:-1 group-title="",StarPlus
 http://103.120.172.74:1120
-#EXTINF:-1 group-title="INDIA",Sony Max
+#EXTINF:-1 group-title="",Sony Max
 http://103.120.172.74:1150
-#EXTINF:-1 group-title="INDIA",Zee TV
+#EXTINF:-1 group-title="",Zee TV
 http://103.120.172.74:4000
-#EXTINF:-1 group-title="INDIA",Star sports1
+#EXTINF:-1 group-title="",Star sports1
 http://103.120.172.74:4100
-#EXTINF:-1 group-title="INDIA",Star sports2
+#EXTINF:-1 group-title="",Star sports2
 http://103.120.172.74:4200
-#EXTINF:-1 group-title="INDIA",StarPlus
+#EXTINF:-1 group-title="",StarPlus
 http://103.120.172.74:4300
 #EXTINF:-1 ,Star Gold
 http://103.120.172.74:5000
