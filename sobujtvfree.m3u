@@ -3234,6 +3234,18 @@ http://192.144.82.200:9302/;stream/1;;
 #EXTINF:-1 group-title="Radio FM by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Radio sarabela 98.8fm
 http://103.4.145.50:8000/stream/1/
 
+#EXTINF:-1 group-title="Radio FM by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Radio Padma 99.2fm
+http://cassini.shoutca.st:9109/radiopadma.mp3
+
+#EXTINF:-1 group-title="Radio FM by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Radio Abirvab
+http://stream-152.zeno.fm/47tmg2pxyrquv?zs=MjzRMmnCQa-KEIW10DHIAQ
+
+#EXTINF:-1 group-title="Radio FM by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Radio Bongonet
+http://188.166.176.244:8000/stream?type=.mp3/;stream.mp3
+
+#EXTINF:-1 group-title="Radio FM by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Radio Disko Bani Kolkata
+http://188.166.176.244:8008/stream2
+
 All Right Reseve by N>I>S
 
 follow facebook
