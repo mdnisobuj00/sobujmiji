@@ -22,17 +22,25 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-  {
-    "name": "GTV FHD ",
-    "link": "http://103.141.2.37:25461/web/web/592",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",
+{
+    "name": "Ary QTV",
+    "link": "https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=185&e=.m3u8|User-Agent=bdsajib",
+    "logo": "https://i.postimg.cc/JhwLDtmz/ARY-Qtv-logo.png",
     "drmScheme": "",
     "drmLicense": ""
   },
+ 
   {
-    "name": "T Sports HD",
+    "name": "BPL 2024 Live T Sports ",
     "link": "http://113.212.111.246:8080/hls/col12.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",
+    "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "BPL 2024 Live GTV FHD ",
+    "link": "http://103.141.2.37:25461/web/web/592",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -51,17 +59,10 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-    {
-    "name": "Sports 18 Khel",
-    "link": "https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_voot_MOB",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbuuZQ5zlkKglnLKA1CWhlqbHIeE1EzNaog&usqp=CAU",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
  {
     "name": "T Sports Live",
     "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
-    "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
@@ -70,7 +71,7 @@
     "drmLicense": ""
   },
 {
-    "name": " BPL 2024 ",
+    "name": "T Sports",
     "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
     "logo": "https://image.tsports.com/images/test/mobile_logo/1705486440-Live-2.jpg",
     "origin": "https://live-cdn.tsports.com",
@@ -81,7 +82,7 @@
     "drmLicense": ""
   },
   {
-    "name": "Zee Bangla Hd",
+    "name": "Zee Bangla FHD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",
     "origin": "https://bldcmprod-cdn.toffeelive.com",
@@ -92,7 +93,7 @@
     "drmLicense": ""
   },
   {
-    "name": "Star Jalsha Viip",
+    "name": "Star Jalsha Vip",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/star_jalsha/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png",
     "origin": "https://bldcmprod-cdn.toffeelive.com",
@@ -125,7 +126,7 @@
     "drmLicense": ""
   },
   {
-    "name": "Jalsha Movies Viip",
+    "name": "Jalsha Movies Vip",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jalsha_movies/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png",
     "origin": "https://bldcmprod-cdn.toffeelive.com",
@@ -158,7 +159,7 @@
     "drmLicense": ""
   },
   {
-    "name": "Sony Aat",
+    "name": "Sony Aath",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",
     "origin": "https://bldcmprod-cdn.toffeelive.com",
