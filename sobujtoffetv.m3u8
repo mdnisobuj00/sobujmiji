@@ -40,44 +40,7 @@
 {
     "name": "BPL 2024 Live GTV FHD ",
     "link": "http://103.141.2.37:25461/web/web/592",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-    {
-    "name": "Sky Sport 3",
-    "link": "https://webudit.webhd.ru/lb/premium590/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
-    "logo": "https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-
-  {
-    "name": "Sports 18 HD",
-    "link": "https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB",
-    "logo": "https://i.ibb.co/ZMbFP6R/sports18.png",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
- {
-    "name": "T Sports Live",
-    "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",
-    "origin": "https://live-cdn.tsports.com",
-    "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705612339:KeyName=tsports-ed25519-01:Signature=_cFC8Rhd9trtZ74oA_kYS8uPEKRfX8KGgCr9adVuEa4A5fIqPvy_M9_Smhaw6zD9Ly8AFo50EHVk2h_cTRLFAQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-{
-    "name": "T Sports",
-    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
     "logo": "https://image.tsports.com/images/test/mobile_logo/1705486440-Live-2.jpg",
-    "origin": "https://live-cdn.tsports.com",
-    "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705612339:KeyName=tsports-ed25519-01:Signature=_cFC8Rhd9trtZ74oA_kYS8uPEKRfX8KGgCr9adVuEa4A5fIqPvy_M9_Smhaw6zD9Ly8AFo50EHVk2h_cTRLFAQ",
     "drmScheme": "",
     "drmLicense": ""
   },
