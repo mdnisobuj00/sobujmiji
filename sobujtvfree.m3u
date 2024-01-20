@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Islamic By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/YMvLf6q.png",Sobuj Tv
 https://i.imgur.com/jP1nVBo.mp4
-#EXTINF:-1 group-title="Sports By Sobuj @nisobuj00" tvg-logo="https://i.imgur.com/YMvLf6q.png",Sobuj Tv
-https://i.imgur.com/jP1nVBo.mp4
+
+#EXTINF:-1 group-title="Movie By Sobuj" tvg-logo="https://i.imgur.com/kWPZGef.jpg",Sobuj Tv live "12th fail movie"
+http://3.bostv.one:8080/movie/biharilal/7647854/118623.mp4?token=TEYOV0sLFwgaVAMEUVBWVl0GBlFUCFZVAAMCV1VcUAMAAQNVC1EHBAATGRZHFxZSWV1vCgUbCVMIWlUAAEgXFEQBFGlRBxcIGgADBQZBSBVMWV0GQwMCVQlXVAsBVwRZG0YWX1xBDxAKBQcMAkFIFV1IRAYTV1IOZgYGRFoHUEMNRkQaGgxbbVxUWFVaB0YNGgAST0NQQBIbWA1HXwgZQ1UNEkRZF1AQAhMEBAFVRhsaU18WD01BGxtYQXB3RhlDUhwSU1YQXF1WEw8WWRNQFRQSWRA+S1YRTRAGU14BR0MNRlYUFEFYU0BuVltaDQFUTFlfDRIbCUAIQE8QXgtbCEMLFGlIClEQAl9AWFge
 
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 Ban vs Ind WORLD CUP-2024 LIVE
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
