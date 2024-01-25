@@ -5,19 +5,16 @@ https://i.imgur.com/jP1nVBo.mp4
 #EXTINF:-1 group-title="Movie By Sobuj" tvg-logo="https://i.imgur.com/kWPZGef.jpg",Sobuj Tv live "12th fail movie"
 http://3.bostv.one:8080/movie/biharilal/7647854/118623.mp4?token=TEYOV0sLFwgaVAMEUVBWVl0GBlFUCFZVAAMCV1VcUAMAAQNVC1EHBAATGRZHFxZSWV1vCgUbCVMIWlUAAEgXFEQBFGlRBxcIGgADBQZBSBVMWV0GQwMCVQlXVAsBVwRZG0YWX1xBDxAKBQcMAkFIFV1IRAYTV1IOZgYGRFoHUEMNRkQaGgxbbVxUWFVaB0YNGgAST0NQQBIbWA1HXwgZQ1UNEkRZF1AQAhMEBAFVRhsaU18WD01BGxtYQXB3RhlDUhwSU1YQXF1WEw8WWRNQFRQSWRA+S1YRTRAGU14BR0MNRlYUFEFYU0BuVltaDQFUTFlfDRIbCUAIQE8QXgtbCEMLFGlIClEQAl9AWFge
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 Ban vs Ind WORLD CUP-2024 LIVE
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg",U-19 World Cup- Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 Ban vs Ind WORLD CUP-2024 LIVE
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 World Cup 2024- CricLife 3
 http://tv.cloudcdn.me/live/00:1A:79:17:C0:8F/SN_1697176355/125423.m3u8
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 WORLD CUP-2024 LIVE [FHD]
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 WORLD CUP [FHD]
 https://webudit.webhd.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 WORLD CUP-2024 LIVE [HD]
-http://4.bostv.one:8080/live/biharilal/7647854/92701.ts?token=TEYOV0sLFwgaV1BVUVIAVlkJAwcADQJVDVpTVwFUB1gBAlEGAFFXCw4TGRZHFxZSWV1vCgUbCVsLVVMDH0ZAElIWOV9cQQ8QCQcEBhZPRkNRXVVBWwgEUgxUVgQLXANNFRQPUhpZFwcPAw0WGEEBT0xVQg0AVWwGXBQKUVZGDw9CCAoaGgxbbVxUWFVaB0YNGgEST0NQQBIbWA1HXwgZQ1UNEkRZF1AQAl9AWFhPRlRXRV4XE0ARWBsgJxAfRlAZQwEIRVEMWxACE0FHFk9GXktvQgYSTUEHWA8GQBFeF1EVSERbWRtqUVdfW1FXFw1YVkMSWUMIEU4bDwxcWhBaE2gUD1IaWRcHDggDFkk=
-
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/YMvLf6q.png",🏏PAK🆚NEW🏏
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c9354075-e266-4cde-981a-cb4e56e26702_180x180_SonyTenHD.jpg",,Ten Sports FHD
 https://webudit.webhd.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/YMvLf6q.png",🏏ILT20 Live🏏
@@ -53,25 +50,25 @@ http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 9 GTV FHD
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
-#EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.postimg.cc/CMNKxzbY/main-logo.png",Peace Tv
+#EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo=" https://i.imgur.com/8zmLbfi.png ",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.imgur.com/GQhXlx8.jpg",Madina Tv
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Islamic By Sobuj " tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
+#EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Islamic By Sobuj " tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",Quran Bangla
+#EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",Quran Bangla
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png",BTV National 
+#EXTINF:-1 group-title="Bangladeshi By Sobuj" tvg-logo=" https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png",BTV National 
 http://103.230.105.252:1935/live/btv/manifest.m3u8
-#EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
+#EXTINF:-1 group-title="Bangladeshi By Sobuj" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
+#EXTINF:-1 group-title="Bangladeshi By Sobuj" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
 http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo=" https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png",Bangla Vision 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png",Boishakhi Tv
+#EXTINF:-1 group-title="Bangladeshi By Sobuj" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png",Boishakhi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo=" https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png",Channel I
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
@@ -3260,4 +3257,3 @@ All Right Reseve by N>I>S
 
 follow facebook
 www.facebook.com/nisobuj00
-
