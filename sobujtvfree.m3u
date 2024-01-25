@@ -32,41 +32,26 @@ http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 2
 http://113.212.111.246:8080/hls/col12.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 3 GTV
-https://tvs2.aynaott.com/gtv/index.m3u8?hdnts=st=1705633464~exp=1705676664~acl=/*~data=2402:1f00:8001:15ca::-WEB~hmac=ccbc151578e7e791d55c8cd0402ca291d1ae70148ba9efc71b7675e1ecd1ff44
+#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 3 T Sports HD
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=27
 
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 4 GTV HD
-http://103.141.2.37:25461/live/web/web/592.m3u8
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=19
 
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 5 GTV HD
-https://tvs1.aynaott.com/gtvhdforgame/index.m3u8?hdnts=st=1705633666~exp=1705676866~acl=/*~data=2402:1f00:8001:15ca::-WEB~hmac=db0f6521cc24be11ad27f5345633cf8b6af5ac8ebc6daf3b4c5dc1e18792b61f
+#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 5 GTV SD
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=18
 
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 6 T-sports FHD
-https://tvs1.aynaott.com/tsportsfhd/index.m3u8?hdnts=st=1705633740~exp=1705676940~acl=/*~data=2402:1f00:8001:15ca::-WEB~hmac=8336e8c46d525a86ac464d95d2813c0e7bfafa235efcedc4fb4c7201083dfc54
+#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 6 T Sports SD
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=28
 
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 7 T-sports HD 
-https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1705633808~exp=1705677008~acl=/*~data=2402:1f00:8001:15ca::-WEB~hmac=a80a269492bafa2c891f9d6d9e3bd64af94990a3bbea80beef467411ad8e55b8
-
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 8
-http://103.141.2.37:25461/live/web/web/588.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 9
-http://113.212.111.246:8080/hls/col12.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 10
+#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 7 T-sports FHD
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 11
-http://103.141.2.37:25461/live/web/web/592.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 12
+#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 8 GTV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 13
+#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 9 GTV FHD
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
-
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 Funcode LIVE SERVER 14
-http://34.163.58.194/live/index.m3u8
 
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.postimg.cc/CMNKxzbY/main-logo.png",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
