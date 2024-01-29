@@ -26,6 +26,8 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/gOCtsyR.jpg",Inter Miami vs Inhilal
 http://xtv.ooo:8080/live/Adeel994/426154/353565.m3u8
 
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/gOCtsyR.jpg",Inter Miami vs Inhilal 2
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/3-96SZHr8tRF_ox70mbDwh5Kd3r_TiR4z69x-cEn2QljYeFsR3eyKw1c3JqLJY84s2YSgM4qsla8NUCs2xP_2w/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/YMvLf6q",Sky Open FootBall
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
 
