@@ -14,7 +14,7 @@ http://tv.cloudcdn.me/live/00:1A:79:17:C0:8F/SN_1697176355/125423.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 WORLD CUP [FHD]
 https://webudit.webhd.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
-#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c9354075-e266-4cde-981a-cb4e56e26702_180x180_SonyTenHD.jpg",,Ten Sports FHD
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c9354075-e266-4cde-981a-cb4e56e26702_180x180_SonyTenHD.jpg",Ten Sports FHD
 https://webudit.webhd.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/YMvLf6q.png",🏏ILT20 Live🏏
@@ -793,18 +793,18 @@ http://103.223.14.56:8000/play/a0ti/index.m3u8
 https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1705563802~exp=1705607002~acl=/*~data=2402:1f00:8001:15ca::-WEB~hmac=51c22ee878120e5aa55a22fec795ac909d793c14e0278e260577fed6b3e16620
 #EXTINF:-1, Rongon Tv
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney
 https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
 #EXTINF:-1 group-title="Indian By Sobuj " tvg-logo="https://i.imgur.com/YTfbaxj.png",Super Hangama
 http://dpny2.1234.uno:6061/superhungama/index.m3u8?token=9741b96ecbbd928b7153d01278844651
 #EXTINF:-1 group-title="Indian By Sobuj " tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Cartoon 
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Cartoon 
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png",Cartoon Network 
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png",Cartoon Network 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-360p.m3u8
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png",Cartoon Network Hindi 
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png",Cartoon Network Hindi 
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 group-title="Indian By Sobuj " tvg-logo="https://i.imgur.com/f7UmNG3.png",TOON TUBERS
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
@@ -838,9 +838,9 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 #EXTINF:-1 group-title="CARTOON BY SOBUJ" tvg-logo="https://i.imgur.com/s0I9JCk.png",Doraemon 
 http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/LZPwHc2.png",Baby First
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/LZPwHc2.png",Baby First
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3d21d9ee-e2b7-49f7-93da-7d459f89e083_0_HLS/manifest.m3u8
 #EXTINF:-1 group-title="Indian By Sobuj " tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",AB MASTII
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
@@ -1529,16 +1529,16 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/in
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="News By Sobuj ", Aljazeera Arabic
 https://www.bioscopelive.com/channel/aljazeera-arabic?contentUuid=dbb6c471-6bb7-4032-94b0-1cfa4c901efa
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="Cartoon By Sobuj ", Nick Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="Cartoon by Sobuj", Nick Bangla
 https://bongohub.pw/bioscope.php?cc=nickelodeon
 
-#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon By Sobuj ", Nick Bangla
+#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon by Sobuj", Nick Bangla
 http://109.182.9.186:1234/udp/232.4.3.11:5002
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg",Sony YaY Bangla
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg",Sony YaY Bangla
 https://bongohub.pw/bioscope.php?cc=sony-yay-live
 
-#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon By Sobuj ", Sonic
+#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Cartoon by Sobuj", Sonic
 https://www.bioscopelive.com/channel/sonic?contentUuid=0847a7cb-a497-4574-91fc-ee5669e40f25
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", Sports18
@@ -1986,11 +1986,11 @@ https://nayeem-ayna1.000webhostapp.com/aynax.php?id=62&e=.m3u8|User-Agent=nayeem
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=63&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 tvg-id="64" tvg-name="BBC News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a4e2e38d-6a60-409e-9419-40b9fd97e29a_180x180_bbcnews.jpeg" tvg-chno="64" group-title="News By Sobuj ",BBC News
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=64&e=.m3u8|User-Agent=nayeemxyz9
-#EXTINF:-1 tvg-id="65" tvg-name="Cartoon Network" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" tvg-chno="65" group-title="Cartoon By Sobuj ",Cartoon Network
+#EXTINF:-1 tvg-id="65" tvg-name="Cartoon Network" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" tvg-chno="65" group-title="Cartoon by Sobuj",Cartoon Network
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=65&e=.m3u8|User-Agent=nayeemxyz9
-#EXTINF:-1 tvg-id="66" tvg-name="PBS Kids" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg" tvg-chno="66" group-title="Cartoon By Sobuj ",PBS Kids
+#EXTINF:-1 tvg-id="66" tvg-name="PBS Kids" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg" tvg-chno="66" group-title="Cartoon by Sobuj",PBS Kids
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=66&e=.m3u8|User-Agent=nayeemxyz9
-#EXTINF:-1 tvg-id="67" tvg-name="WION" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e11861ab-2e48-4e53-a2ee-3c8e783fd73e_180x180_Wion.jpg" tvg-chno="67" group-title="Cartoon By Sobuj ",WION
+#EXTINF:-1 tvg-id="67" tvg-name="WION" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e11861ab-2e48-4e53-a2ee-3c8e783fd73e_180x180_Wion.jpg" tvg-chno="67" group-title="Cartoon by Sobuj",WION
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=67&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 tvg-id="68" tvg-name="A Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg" tvg-chno="68" group-title="Sports By Sobuj",A Sports
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=68&e=.m3u8|User-Agent=nayeemxyz9
@@ -2115,13 +2115,13 @@ https://nayeem-ayna1.000webhostapp.com/aynax.php?id=123&e=.m3u8|User-Agent=nayee
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=124&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 tvg-id="125" tvg-name="9x Jalwa" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" tvg-chno="125" group-title="Music By Sobuj ",9x Jalwa
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=125&e=.m3u8|User-Agent=nayeemxyz9
-#EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="Cartoon By Sobuj ",Nickelodeon-3
+#EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="Cartoon by Sobuj",Nickelodeon-3
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=126&e=.m3u8|User-Agent=nayeemxyz9
 
-#EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="Cartoon By Sobuj ",Nickelodeon-4
+#EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="Cartoon by Sobuj",Nickelodeon-4
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
-#EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="Cartoon By Sobuj ",Nickelodeon-5
+#EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="Cartoon by Sobuj",Nickelodeon-5
 http://103.55.144.46:80/hls/nick.m3u8
 
 #EXTINF:-1 tvg-id="127" tvg-name="Fox News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8f6cc61a-16f1-4f25-94bb-d525a550c598_180x180_fox-news.jpg" tvg-chno="127" group-title="News By Sobuj ",Fox News
@@ -2673,31 +2673,31 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallbac
 
 #EXTINF:-1 group-title="Movies By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",ZEE CAFE HD
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png"",NICKELODEON FAV
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png"",NICKELODEON FAV
 http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/102474
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/Zhhw9B8.png",DISNEY CHANNEL
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/Zhhw9B8.png",DISNEY CHANNEL
 http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96278
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/Zhhw9B8.png",DISNEY HD
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/Zhhw9B8.png",DISNEY HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",DISNEY INTERNATIONAL HD
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",DISNEY INTERNATIONAL HD
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",NICK HD PLUS
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",NICK HD PLUS
 http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96248
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",NICK JR.
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",NICK JR.
 http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/102473
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",POGO
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",POGO
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",DISCOVERY KIDS
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",DISCOVERY KIDS
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",CARTOON NETWORK
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",CARTOON NETWORK
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 
 #EXTINF:-1 group-title="Music By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",Music India
@@ -2791,9 +2791,9 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="News By Sobuj " tvg-logo="https://i.ndtvimg.com/i/2014-12/ndtv24x7_640x480_71419357330.jpg",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg",Cartoon Network RU
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg",Cartoon Network RU
 http://iptv.prosto.tv:7000/ch207/video.m3u8
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="https://i.imgur.com/SQS0HbU.png",Spacetoon
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="https://i.imgur.com/SQS0HbU.png",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 ,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -2861,18 +2861,18 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/83ccf718ec6040646c295cb25dbef052.sdp1
 
 
-#EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="http://flix.bdtype.com/uploads/deault_image/thumbnail.jpg",92 News HD Plus
+#EXTINF:-1 group-title="Indian Bangla By Sobuj" tvg-logo="http://flix.bdtype.com/uploads/deault_image/thumbnail.jpg",92 News HD Plus
 http://92news.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo="http://flix.bdtype.com/uplads/defult_image/thumbnail.jpg",Disney Junior HD
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="http://flix.bdtype.com/uplads/defult_image/thumbnail.jpg",Disney Junior HD
 http://5.255.90.184:2004/play/a006/index.m3u8
 
 
-#EXTINF:-1 group-title="Cartoon Bangla By Sobuj " tvg-logo="http://flix.bdtype.com/uploads/defalt_image/thumbnail.jpg",Disney Junior SD
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo="http://flix.bdtype.com/uploads/defalt_image/thumbnail.jpg",Disney Junior SD
 http://5.255.90.184:2004/play/a006/index.m3u8
 
 
-#EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="http://flix.bdtype.com/uploads/dfault_image/thumbnail.jpg",Probashi Bangla
+#EXTINF:-1 group-title="Bangladeshi By Sobuj" tvg-logo="http://flix.bdtype.com/uploads/dfault_image/thumbnail.jpg",Probashi Bangla
 http://163.172.29.246:8081/globalbd/probashi_bangla/playlist.m3u8
 
 
@@ -3010,7 +3010,7 @@ new
 #EXTINF:-1 group-title=Indian Bangla By Sobuj " tvg-logo=",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
-#EXTINF:-1 group-title="Cartoon By Sobuj " tvg-logo=",Nick Hindi
+#EXTINF:-1 group-title="Cartoon by Sobuj" tvg-logo=",Nick Hindi
 https://goa.prothomalo.lol/app/live/545/Nick_Hindi/0db17cca61dc0c0f6361482a25c8e1c5744ce208ddc2e2b61fbc78c0ede593090d955cf18080aff41c2f971e83afb7c174d1e55cf592101c9261cae4ac134c7f2c0af22da0266579c6b7dd6c82e26d61e2255de0d4690e6a36ef382ae57a2c4bad914e2899e309c13d4e77403e45a4d5a227105fa8c124ccbc42d788dfc3e9ea4fb0b87dcf5d965644f244151aa18572c75b9ad7385a7b63e278b21faeef5048_playlist.m3u8
 
 
