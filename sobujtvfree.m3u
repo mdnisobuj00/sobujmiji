@@ -28,15 +28,15 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/YMvLf6q.png",🏏IL T20 Live 2🏏
 http://89.187.177.137:8081/&FLIX/index.m3u8
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/gOCtsyR.jpg",Inter Miami vs Inhilal
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Riyadh Season cup-2024 live 
 https://bp1.mrgamingstreams.com/mrgamingsoccer2.m3u8
 http://xtv.ooo:8080/live/Adeel994/426154/353565.m3u8
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/gOCtsyR.jpg",Inter Miami vs Inhilal Low Quality 
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Riyadh Season cup Low Quality 
 http://pal.alphatx.me:80/play/live.ts?mac=00:1a:79:79:58:2a&stream=1002773&extension=ts&play_token=4VmPqRmIER
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/4Gt3bxRzZlWzvsg9TlANGwEsD4ciRh46Fj94QHrugq7Q7S2ASfU6r3BfmoRqLy35XjyGVNeLsDh6iwTwwFum9Q/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/gOCtsyR.jpg",Inter Miami vs Inhilal 3
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",SSC-5 Riyadh season cup
 https://ed-b002.edgking.me/plyvivo/1i20wohajiweruza8iju/chunklist.m3u8?|Referer=https://www.niaomea.me/
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/gOCtsyR.jpg",Apple TV Miami vs Al Hilal
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Apple TV, Riyadh season cup
 https://quo1.dlive.click/wDjZdewSSHitlT49ZBPEnA/1706580752/3130332e3137382e3138362e313535/ff147/playlist.m3u8
 
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/YMvLf6q",Sky Open FootBall
