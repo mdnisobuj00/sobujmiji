@@ -1,10 +1,8 @@
 [
 {
   "name": "Aynaott All Channel HLS Link in Json",
-  "owner": "Sobuj \nTelegram: https://t.me/nisobujtv\nGithub:https://github.com",
-  "channels_amount": 190,
-  "updated_on": "07-02-2024 on 6:18:02 PM \ud83c\udf19",
-  "channels": [
+  "owner": "Sobuj \Telegram: https://t.me/nisobujtv
+},
     {
       "id": 9,
       "category_name": "AynaoOTT",
@@ -2102,5 +2100,3 @@
       "logo": "https://cloudtv.akamaized.net/anyott/images/CMS_BD/f0ac143c-793e-4589-9d17-1b56958dac39_180x180_PRIMEFIGHT.jpg"
     }
   ]
-}
-]
