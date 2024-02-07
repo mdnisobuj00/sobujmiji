@@ -328,7 +328,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png",KHUSHBOO BANGLA
 http://103.223.14.56:8000/play/a0ti/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png",Duronto Tv HD
-https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1705563802~exp=1705607002~acl=/*~data=2402:1f00:8001:15ca::-WEB~hmac=51c22ee878120e5aa55a22fec795ac909d793c14e0278e260577fed6b3e16620
+https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1707315481~exp=1707358681~acl=/durontotv/*~data=103.90.200.200-PHONE~hmac=bb02001d70a42dad566118260837fca5a0ba699a54bdf363765c00f94c2cb1e4
 #EXTINF:-1, Rongon Tv
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
 #EXTINF:-1 group-title=" Cartoons By Sobuj " tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney FHD
