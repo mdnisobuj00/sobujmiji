@@ -18,15 +18,10 @@
 #EXTINF:-1 group-title="Islamic By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",Sobuj Tv
 https://i.imgur.com/jP1nVBo.mp4
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",Super Sports Action
-http://ddh2.nnotoplay.click/premium420/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U19 Worldcup Live
-https://webudit.webhd.ru/lb/premium420/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 World Cup 2024- CricLife 3
 http://tv.cloudcdn.me/live/00:1A:79:17:C0:8F/SN_1697176355/125423.m3u8
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 WORLD CUP [FHD]
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",Willow, U-19 WORLD CUP [FHD]
 https://webudit.webhd.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c9354075-e266-4cde-981a-cb4e56e26702_180x180_SonyTenHD.jpg",Ten Sports FHD
@@ -34,11 +29,7 @@ https://webudit.webhd.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay
 
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/YMvLf6q.png",🏏ILT20 Live🏏
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/YMvLf6q.png",🏏IL T20 Live 2🏏
-http://89.187.177.137:8081/&FLIX/index.m3u8
-
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Riyadh Season cup-2024 live 
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Riyadh Season cup ESPN  
 https://bp1.mrgamingstreams.com/mrgamingsoccer2.m3u8
 http://xtv.ooo:8080/live/Adeel994/426154/353565.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Riyadh Season cup Low Quality 
@@ -48,6 +39,16 @@ https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/4Gt3bxRzZlWzvsg9TlANG
 https://ed-b002.edgking.me/plyvivo/1i20wohajiweruza8iju/chunklist.m3u8?|Referer=https://www.niaomea.me/
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Apple TV, Riyadh season cup
 https://quo1.dlive.click/wDjZdewSSHitlT49ZBPEnA/1706580752/3130332e3137382e3138362e313535/ff147/playlist.m3u8
+
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 Server 1
+https://webudit.webhd.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 SD
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_merged_avc_hin_sa20_m1_010224/master_p6.m3u8
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 HD
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_merged_avc_hin_sa20_m1_010224/master_p5.m3u8
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 FHD
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_merged_avc_hin_sa20_m1_010224/master_p1.m3u8
 
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/EmGy4Dx.jpg",AFC ASIAN CUP
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_140124/master.m3u8
@@ -64,9 +65,16 @@ http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 4 GTV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 
+#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 5 T-sports HD
+http://ott1.co:8080/live/22552255/22552255/18452.ts
+
+#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 6+ T-sports HD
+http://ddh2.nnotoplay.click/premium270/mono.m3u8
+
 H-Sobuj-BD-TV
-#EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo=" https://i.imgur.com/8zmLbfi.png ",Peace Tv
+#EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.imgur.com/8zmLbfi.png",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
+
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.imgur.com/GQhXlx8.jpg",Madina Tv
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
@@ -74,7 +82,7 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",Quran Bangla
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj" tvg-logo=" https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png",BTV National 
-http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=839369&extension=ts
+http://mag.trexlive.me:80/Michael88/Michael88/225734
 #EXTINF:-1 group-title="Bangladeshi By Sobuj" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
@@ -332,9 +340,9 @@ https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1707315481~exp=1707358681
 #EXTINF:-1, Rongon Tv
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
 #EXTINF:-1 group-title=" Cartoons By Sobuj " tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney FHD
-https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
+http://humiptv.live:8080/live/wasim/wasim1234/19741.ts 
 #EXTINF:-1 group-title=" Cartoons By Sobuj " tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD
-http://filex.tv:8080/Amir8759/Amir9578/246763
+https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8 
 #EXTINF:-1 group-title="Indian By Sobuj " tvg-logo="https://i.imgur.com/YTfbaxj.png",Super Hangama
 http://dpny2.1234.uno:6061/superhungama/index.m3u8?token=9741b96ecbbd928b7153d01278844651
 #EXTINF:-1 group-title="Indian By Sobuj " tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
@@ -430,7 +438,7 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.postimg.cc/g2TtQqvn/image.jpg",WWE
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1698
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/PSrgydV.jpg",Willow HD
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/TjgTOg0.png",A Sports 
 http://livetvbox.live:8080/live/Anne/Anne/43444.m3u8
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/InMnCM5.png",SPORTS TV 
@@ -1571,9 +1579,6 @@ http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/93727
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",SKY CRICKET
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 
-#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",WILLOW HD
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",ASTRO CRICKET HD
 http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 
@@ -1849,11 +1854,12 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="http://tv.ebox.live/assets/images/etv.jpg",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="Islamic By Sobuj " tvg-logo="https://i.imgur.com/8zmLbfi.png",Peace TV
+#EXTINF:-1 group-title="Islamic By Sobuj " tvg-logo="https://i.imgur.com/8zmLbfi.png",Peace TV English
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 group-title="Islamic By Sobuj " tvg-logo="https://durbinlive.com/uploads/tv_image/sm/hajj-live.jpg",Makkah Live
+#EXTINF:-1 group-title="Islamic By Sobuj " tvg-logo=" https://i.imgur.com/9gffd60.png ",Makkah Live
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 group-title="Kids By Sobuj " tvg-logo="https://i.imgur.com/uQ4iijb.png",NASA TV
+#EXTINF:-1 group-title="Kids By
+ Sobuj " tvg-logo="https://i.imgur.com/uQ4iijb.png",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg",Red Bull TV Sports (akamai)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
@@ -2144,8 +2150,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
 #EXTINF:-1 ,9x Tashan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-#EXTINF:-1 ,Peace Tv Bangla
-http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1 ,Star Movies
 https://edge2.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 ,Zee TV
@@ -2844,7 +2848,7 @@ http://188.166.176.244:8000/stream?type=.mp3/;stream.mp3
 #EXTINF:-1 group-title="Radio FM by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Radio Disko Bani Kolkata
 http://188.166.176.244:8008/stream2
 
-#EXTINF:-1 group-title="Sports by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Willow HD
+#EXTINF:-1 group-title="Sports by Sobuj" tvg-logo=" https://i.imgur.com/PSrgydV.jpg ",Willow HD
 https://hls.streambtw.com/live/stream_e1.m3u8
 Request Channel
 #EXTINF:0, group-title="Indian By Sobuj", tvg-logo="https://i.postimg.cc/Jh2BkMF7/Untitled-8-co9py.jpg",Sony Rox HD
