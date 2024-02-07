@@ -59,20 +59,13 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 2
-http://113.212.111.246:8080/hls/col12.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 3 T Sports HD
 https://webudit.webhd.ru/lb/premium270/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
-
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 7 T-sports FHD
+#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 3 T-sports FHD
 https://103.109.56.116/live/skyfeed1005/index.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 8 GTV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 9 GTV FHD
-http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
 H-Sobuj-BD-TV
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo=" https://i.imgur.com/8zmLbfi.png ",Peace Tv
