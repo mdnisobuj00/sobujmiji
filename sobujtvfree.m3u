@@ -43,8 +43,6 @@ https://quo1.dlive.click/wDjZdewSSHitlT49ZBPEnA/1706580752/3130332e3137382e31383
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 Server 1
 https://webudit.webhd.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 SD
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_merged_avc_hin_sa20_m1_010224/master_p6.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 HD
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_merged_avc_hin_sa20_m1_010224/master_p5.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 FHD
@@ -227,6 +225,8 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangla_NW18_MOB-audio_98834_eng=98800-video=863200.m3u8
 #EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="https://i.postimg.cc/D05r7zsM/e5Ldh7e.png",Zee Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="https://i.postimg.cc/D05r7zsM/e5Ldh7e.png",Zee Bangla Bongo
+https://live.bongobd.com/hls/XwHs_TIMiYI6cbGm0AgnHA/1707392918/zee_bangla.m3u8
 #EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="https://i.postimg.cc/kMLCcVQ8/Star-Jalsha-logo-2023.png",Star Jolsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="https://i.postimg.cc/4N2J9T1k/HVZHZGl.png",Colors Bangla
@@ -241,6 +241,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg",Zee Bangla Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacinema-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg", Zee Bangla Bongo
+https://live.bongobd.com/hls/pfMIea74rY8VBaHZ5J-zQw/1707393095/zee_bangla_cinema.m3u8
 #EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="https://i.postimg.cc/rF1bgHyP/Enterr-10.png",Enter 10 Bangla
 http://103.132.181.118:82/play/a00n
 #EXTINF:-1 group-title="Indian Bangla By Sobuj " tvg-logo="https://i.imgur.com/SpXY5JK.png",Akash 8
@@ -391,7 +393,7 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:-1 group-title="Cartoons By Sobuj" tvg-logo="https://i.imgur.com/LZPwHc2.png",Baby First
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3d21d9ee-e2b7-49f7-93da-7d459f89e083_0_HLS/manifest.m3u8
 #EXTINF:-1 group-title="Indian By Sobuj " tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",AB MASTII
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u
 #EXTINF:-1 group-title="Indian By Sobuj " tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png",9X JHAKAAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 #EXTINF:-1 group-title="Indian By Sobuj " tvg-logo="https://i.imgur.com/zkRAgqv.jpg",Songeet Bhojpuri
@@ -1788,6 +1790,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0a
 #EXTINF:-1 group-title="Music By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",MASTII
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 
+#EXTINF:-1 group-title="Music By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",MASTII 2
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8?hdnts=st=1707387617~exp=1707391217~acl=!*/sablive_https/mastii/*!yuppTVCom_5_-1_256dbef16fc247de_BD_103.138.27.218/payload/yuppTVCom_5_-1_256dbef16fc247de_BD_103.138.27.218/*~hmac=2222e071d54f20b96ccf1f7f4feffc0e85f546f4a65ddabb3ea36ed655392642&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MUS&ads.channel=5229&ads.channel_name=Mastiii&ads.network_name=yupptv&ads.user=0
+
 #EXTINF:-1 group-title="Music By Sobuj " tvg-logo="https://i.imgur.com/YMvLf6q.png",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 
@@ -2809,8 +2814,14 @@ http://64.31.40.14:14884/viva
 #EXTINF:-1 ,SBTᴴᴰ 
 http://199.127.60.83:16170/SBTB
 
+
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q",Sky Open FootBall
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
+
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q",Bongo Drama
+https://live.bongobd.com/hls/Mda6_bWHGSqYwJWPbr2dew/1707392589/bongo_drama.m3u8
+
+
 #FM Radio 
 #EXTINF:-1 group-title="Radio FM by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bangladesh betar 88.8 fm
 http://as2.digitalsynapsebd.com:9236/;stream.mp3
