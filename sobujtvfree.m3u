@@ -24,6 +24,9 @@ http://tv.cloudcdn.me/live/00:1A:79:17:C0:8F/SN_1697176355/125423.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",Willow, U-19 WORLD CUP [FHD]
 https://webudit.webhd.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png", U-19 Live
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c9354075-e266-4cde-981a-cb4e56e26702_180x180_SonyTenHD.jpg",Ten Sports FHD
 https://webudit.webhd.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
@@ -40,12 +43,13 @@ https://ed-b002.edgking.me/plyvivo/1i20wohajiweruza8iju/chunklist.m3u8?|Referer=
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Apple TV, Riyadh season cup
 https://quo1.dlive.click/wDjZdewSSHitlT49ZBPEnA/1706580752/3130332e3137382e3138362e313535/ff147/playlist.m3u8
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 Server 1
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",SA20 Server 1
 https://webudit.webhd.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 HD
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_merged_avc_hin_sa20_m1_010224/master_p5.m3u8
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo=" https://i.imgur.com/YMvLf6q.png ",SA20 FHD
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",SA20 Server 2
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/YMvLf6q.png",SA20 FHD
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_merged_avc_hin_sa20_m1_010224/master_p1.m3u8
 
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/EmGy4Dx.jpg",AFC ASIAN CUP
@@ -110,10 +114,10 @@ http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=" Bangladeshi By Sobuj " tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",RTV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.imgur.com/rAsP1Xw.jpg",RTV Music
-https://rtv-music.mssarena71.workers.dev/stream/RtvMusic/master.m3u8
+https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.imgur.com/rAsP1Xw.jpg",RTV Music
-http://185.245.0.6:8080/live/play/VEV4SlMyZDRSRkV3WkdwdmVXdzRaa3hGY2pCQmFYTlJNV1J4VVVKNFJEQm9MMGhsWkZZME0weFdUVDA9/729492
+http://mitvpro.online:88/02025685921199/8999991992/100711
 
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg",NTV
 http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
@@ -192,7 +196,8 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.imgur.com/u4aQF2s.png",Duranto Tv
-https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1707315481~exp=1707358681~acl=/durontotv/*~data=103.90.200.200-PHONE~hmac=bb02001d70a42dad566118260837fca5a0ba699a54bdf363765c00f94c2cb1e4
+https://freeiptv25.netlify.app/live/bdix/app/Duronto.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.ibb.co/Wcjz549/Channel-S-Logo-SVG.png",CHANNEL S
 https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj " tvg-logo="https://i.postimg.cc/1Xgkh56k/download-3.png",NRB HD Tv
@@ -2938,24 +2943,4 @@ http://mhms5.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 All Right Reseve by N>I>S
 
 follow facebook
-https://www.facebook.com/nisobuj00
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+www.facebook.com/nisobuj00
