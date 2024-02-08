@@ -79,6 +79,14 @@ http://ott1.co:8080/live/22552255/22552255/18452.ts
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 6+ T-sports HD
 http://ddh2.nnotoplay.click/premium270/mono.m3u8
 
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",EFL Live
+https://bp1.mrgamingstreams.com/mrgamingsoccer4.m3u8
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",EFL Live 2
+https://bp1.mrgamingstreams.com/mrgamingsoccer4.m3u8
+https://bp1.mrgamingstreams.com/mrgamingsoccer13.m3u8  
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",ESPN Plus
+https://bp1.mrgamingstreams.com/mrgamingsoccer6.m3u8
+
 H-Sobuj-BD-TV
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.imgur.com/8zmLbfi.png",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
@@ -2988,10 +2996,48 @@ Request Channel
 #EXTINF:0, group-title="Indian By Sobuj", tvg-logo="https://i.postimg.cc/Jh2BkMF7/Untitled-8-co9py.jpg",Sony Rox HD
 http://mhms5.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/index.m3u8
 
+
+
+***HD tv added
+#EXTINF:-1 group-title="Bangladeshi tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",BTV
+https://freeiptv25.netlify.app/live/bdix/app/Btv.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",My Tv
+https://freeiptv25.netlify.app/live/bdix/app/Mytv.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Rtv
+https://freeiptv25.netlify.app/live/bdix/app/Rtv.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Rtv Music
+https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Channal I
+https://freeiptv25.netlify.app/live/bdix/app/Channeli.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Atn Bangla
+https://freeiptv25.netlify.app/live/bdix/app/Atnbangla.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Sa tv
+https://freeiptv25.netlify.app/live/bdix/app/Satv.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",NTV
+https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Ekushe TV
+https://freeiptv25.netlify.app/live/bdix/app/Ekusheytv.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Desh TV
+https://freeiptv25.netlify.app/live/bdix/app/Deshtv.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Atn News
+https://freeiptv25.netlify.app/live/bdix/app/Atnnews.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bangla Vision
+https://freeiptv25.netlify.app/live/bdix/app/Banglavision.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Channel 9
+https://freeiptv25.netlify.app/live/bdix/app/channel9.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Channel 24
+https://freeiptv25.netlify.app/live/bdix/app/Channel24.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Asian TV
+https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
+#EXTINF:-1 group-title="Bangla tv by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",News 24
+https://freeiptv25.netlify.app/live/bdix/app/News24.m3u8
+
+
+
 All Right Reseve by N>I>S
 
 follow facebook
-https://www.facebook.com/nisobuj00
+www.facebook.com/nisobuj00
 
 
 
