@@ -35,11 +35,17 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Riyadh Season cup ESPN  
 https://bp1.mrgamingstreams.com/mrgamingsoccer2.m3u8
 http://xtv.ooo:8080/live/Adeel994/426154/353565.m3u8
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Riyadh Season cup ESPN  
+https://webudit.webhd.ru/lb/premium375/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Riyadh Season cup Low Quality 
 http://pal.alphatx.me:80/play/live.ts?mac=00:1a:79:79:58:2a&stream=1002773&extension=ts&play_token=4VmPqRmIER
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/4Gt3bxRzZlWzvsg9TlANGwEsD4ciRh46Fj94QHrugq7Q7S2ASfU6r3BfmoRqLy35XjyGVNeLsDh6iwTwwFum9Q/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",SSC-5 Riyadh season cup
 https://ed-b002.edgking.me/plyvivo/1i20wohajiweruza8iju/chunklist.m3u8?|Referer=https://www.niaomea.me/
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",SSC-5 Riyadh season cup 2
+https://webudit.webhd.ru/lb/premium618/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/bN9QRnSw/IMG-20240202-WA0000.jpg",Apple TV, Riyadh season cup
 https://quo1.dlive.click/wDjZdewSSHitlT49ZBPEnA/1706580752/3130332e3137382e3138362e313535/ff147/playlist.m3u8
 
@@ -483,7 +489,7 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1698
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/PSrgydV.jpg",Willow HD
 https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/PSrgydV.jpg",Willow HD
-http://85.92.112.14:8080/live/play/V0VkdmIwSjVNVEptTldJMWJGQjNURmxYTUVGd1dtNXFlV1kzUTNOUlJrbDBaalJIVFVaclFuUlpVVDA9/689572
+https://webudit.webhd.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/TjgTOg0.png",A Sports 
 http://livetvbox.live:8080/live/Anne/Anne/43444.m3u8
@@ -514,19 +520,17 @@ https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/od4AN28.jpg",SSC 1
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/od4AN28.jpg",SSC 1
-http://85.92.112.11:8080/live/play/WTJ0TU9FNDFObk5QUkRGblUwY3hUWEU1ZGtKcVZXSk5SRkpOTW1aUk1IWXdia2huTmpCc2NEaG9kejA9/770767
+https://webudit.webhd.ru/lb/premium614/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="Sports By Sobuj", SSC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://ddy5.webhd.ru/ddy5/premium615/tracks-v1a1/mono.m3u8
+https://webudit.webhd.ru/lb/premium615/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="Sports By Sobuj", SSC 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy5.webhd.ru/ddy5/premium616/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="Sports By Sobuj", SSC 3
-http://85.92.112.11:8080/live/play/Ym14RlFXeHJURzF1TldZd01ISnhORkF3ZDB0T1UwcExUV0kzZDNBNGVuTkpiRXRpVHpOWlZ6VmtjejA9/770750
+https://webudit.webhd.ru/lb/premium616/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="Sports By Sobuj", SSC 4
@@ -535,10 +539,10 @@ http://85.92.112.11:8080/live/play/Ym14RlFXeHJURzF1TldZd01ISnhORkF3ZDB0T1UwcExUV
 https://ddy5.webhd.ru/ddy5/premium617/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="Sports By Sobuj", SSC 4
-http://85.92.112.11:8080/live/play/YzNsaFNXVmhPVzlNWW5VdlZuaDRVVVpzYTBWcmJHdElTMk53ZVdKelltcHVjVVZLU0RSUFQyOVJPRDA9/770743
+https://webudit.webhd.ru/lb/premium617/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="Sports By Sobuj", SSC 5
-http://85.92.112.11:8080/live/play/WkRCRWFYbGtjVFJsVm1veVZ6Um1abVZoV0hjMWVURnhPVFVyTlc1NVNXUlNhRXA1T0VSTmVGUm9RVDA9/1062346
+https://webudit.webhd.ru/lb/premium618/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 
 #EXTINF:-1 group-title="Sports By Sobuj" tvg-logo=" https://i.imgur.com/YMvLf6q.png",Ziggo Sport Tennis 
@@ -1029,10 +1033,8 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", Astro Cricket 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://ddh2.webhd.ru/ddh2/premium370/tracks-v1a1/mono.m3u8
-
+https://webudit.webhd.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+                                    
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", FOX Cricket 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
@@ -1049,7 +1051,7 @@ https://ddh2.webhd.ru/ddh2/premium346/tracks-v1a1/mono.m3u8
 https://ddh2.webhd.ru/ddh2/premium598/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Sports By Sobuj", Willow Extra 
-http://85.92.112.14:8080/live/play/VTJoV2FrSTRMMVpOTDAxTGNreDNaa1p5TDFCRGNrYzVVR2xxY2paTk9XVnpia2cyZFd4VWVYSk1kejA9/741860
+https://webudit.webhd.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="Sports By Sobuj", Willow Extra 
 http://85.92.112.14:8080/live/play/VTJoV2FrSTRMMVpOTDAxTGNreDNaa1p5TDFCRGNrYzVVR2xxY2paTk9XVnpia2cyZFd4VWVYSk1kejA9/741860
@@ -1250,6 +1252,14 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy2.webhd.ru/ddy2/premium2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", SSC Extra 1
+https://webudit.webhd.ru/lb/premium619/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", SSC Extra 2
+https://webudit.webhd.ru/lb/premium620/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", SSC Extra 3
+https://webudit.webhd.ru/lb/premium621/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1290,20 +1300,14 @@ https://ddy4.webhd.ru/ddy4/premium427/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ddh2.webhd.ru/ddh2/premium56/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", SuperSports Cricket 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://ddh2.webhd.ru/ddh2/premium368/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="& LIVE EVENT", SA20 Super Sports Cricket 
+https://webudit.webhd.ru/lb/premium368/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", SuperSports Variety 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://ddy3.webhd.ru/ddy3/premium416/tracks-v1a1/mono.m3u8
+https://webudit.webhd.ru/lb/premium416/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", SuperSports Variety 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://ddy3.webhd.ru/ddy3/premium417/tracks-v1a1/mono.m3u8
+https://webudit.webhd.ru/lb/premium417/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YMvLf6q.png" group-title="SPORTS BY SOBUJ", SuperSports Variety 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -2896,6 +2900,50 @@ http://185.245.0.10:8080/live/play/V1Vvck1uUnlZbWszT1dOSldISkNjMVpSZG5aV2RuRkVWa
 #EXTINF:-1 group-title="Cartoons by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Tom and Jerry AR
 http://185.245.0.10:8080/live/play/ZW1WUGJFdEdjVWR6UzBsaGNXWkpZVzUxV0hSVmRqWTNlWGhEZW5kS1FtRkhiVFpoTjFSMGRHazNORDA9/1006994
 
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bein Sports 1
+https://webudit.webhd.ru/lb/premium491/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bein Sports 2
+https://webudit.webhd.ru/lb/premium492/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bein Sports 3
+https://webudit.webhd.ru/lb/premium493/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bein Sports 4
+https://webudit.webhd.ru/lb/premium494/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bein Sports 5
+https://webudit.webhd.ru/lb/premium495/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bein Sports 6
+https://webudit.webhd.ru/lb/premium496/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bein Sports 7
+https://webudit.webhd.ru/lb/premium497/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bein Sports 8
+https://webudit.webhd.ru/lb/premium498/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bein Sports 9
+https://webudit.webhd.ru/lb/premium499/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bein Sports 10
+https://webudit.webhd.ru/lb/premium500/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Nova Sports
+https://webudit.webhd.ru/lb/premium499/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",CTV
+https://webudit.webhd.ru/lb/premium602/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Dubai Sports 2
+https://webudit.webhd.ru/lb/premium605/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Dubai Sports 3
+https://webudit.webhd.ru/lb/premium606/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",On Time
+https://webudit.webhd.ru/lb/premium611/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",On Time 2
+https://webudit.webhd.ru/lb/premium612/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Sport 1 HD
+https://webudit.webhd.ru/lb/premium622/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Viaplay
+https://webudit.webhd.ru/lb/premium550/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Cartoons By Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",BBC Alba
+https://webudit.webhd.ru/lb/premium59/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="& LIVE EVENT " tvg-logo="https://i.imgur.com/YMvLf6q.png",SA20 Fox Sports
+https://webudit.webhd.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+
+
+           
 
 #FM Radio 
 #EXTINF:-1 group-title="Radio FM by Sobuj" tvg-logo="https://i.imgur.com/YMvLf6q.png",Bangladesh betar 88.8 fm
@@ -2943,4 +2991,24 @@ http://mhms5.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 All Right Reseve by N>I>S
 
 follow facebook
-www.facebook.com/nisobuj00
+https://www.facebook.com/nisobuj00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
