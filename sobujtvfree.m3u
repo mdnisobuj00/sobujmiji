@@ -34,6 +34,16 @@ http://tinyurl.com/tfrkhuzn
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL 2024 LIVE SERVER 4 T-sports HD
 http://tinyurl.com/yzjmtbz3
 
+#EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-id="35" group-title="LIVE EVENT BPL 2024",Gazi TV
+https://tvs2.aynaott.com/gtv/index.m3u8?hdnts=st=1707620452~exp=1707663652~acl=/gtv/*~data=103.90.200.200-PHONE~hmac=cac0291e8a1e9171fe81b07769ade3cb6d3bd19e58343173629c7ebd59d8d0c0
+#EXTINF:-1 tvg-name="Gazi TV HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" tvg-id="137" group-title="LIVE EVENT BPL 2024",Gazi TV HD
+https://tvs1.aynaott.com/gtvhdforgame/index.m3u8?hdnts=st=1707620452~exp=1707663652~acl=/gtvhdforgame/*~data=103.90.200.200-PHONE~hmac=bf8bb0de64f9da2ae88d9a607d5ff00f7eb6d5e0356fb2f1e56d73efa94b2567
+
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-id="133" group-title="LIVE EVENT BPL 2024",T Sports HD
+https://tvs1.aynaott.com/tsportsfhd/index.m3u8?hdnts=st=1707620452~exp=1707663652~acl=/tsportsfhd/*~data=103.90.200.200-PHONE~hmac=c5032f3d1257ad8cff90a8475dc2d8d7c01f72f24eaa8eb996b5e360e3bf4169
+#EXTINF:-1 tvg-name="T Sports" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" tvg-id="33" group-title="LIVE EVENT BPL 2024",T Sports
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1707620452~exp=1707663652~acl=/tsportshd/*~data=103.90.200.200-PHONE~hmac=e9d7039651aa49f43fb160aadc561067404b7a8605738464c36ef2d3446ffbb9
+
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.imgur.com/6vTvkYM.png",U-19 World Cup 2024- CricLife 3
 http://tv.cloudcdn.me/live/00:1A:79:17:C0:8F/SN_1697176355/125423.m3u8
 
