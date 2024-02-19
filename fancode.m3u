@@ -1,0 +1,75 @@
+[
+{
+  "name": "FanCode All Live Matches Data in Json",
+  "owner": "Byte Capsule \nTelegram: https://t.me/nisobujtv_N\nGithub:https://github.com/",
+  "channels_amount": 6,
+  "updated_on": "19-02-2024 on 10:07:59 PM \ud83c\udf19",
+  "channels": [
+    {
+      "event_catagory": "cricket",
+      "event_name": "ICCA Arabian Cricket League Round 2",
+      "match_id": 92756,
+      "match_name": "Karwan Cricket Club vs The Vision Shipping",
+      "team_1": "Karwan Cricket Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KRWA@2x.png",
+      "team_2": "The Vision Shipping",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TVSLL@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/-WmS5rYDQ9molxECywDIgA/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "ECS Spain, 2024",
+      "match_id": 93236,
+      "match_name": "Pak I Care Badalona vs Sohal Hospitalet",
+      "team_1": "Pak I Care Badalona",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PIC@2x.png",
+      "team_2": "Sohal Hospitalet",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SO@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/_CU_MVDORni4flFqhkhX7A/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Bangladesh Premier League, 2024",
+      "match_id": 90980,
+      "match_name": "Fortune Barishal vs Rangpur Riders",
+      "team_1": "Fortune Barishal",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FBAA@2x.png",
+      "team_2": "Rangpur Riders",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/VTjFgmHtTcyEV_rv-tmUdQ/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "Afghanistan tour of Sri Lanka, 2024",
+      "match_id": 91207,
+      "match_name": "Sri Lanka vs Afghanistan",
+      "team_1": "Sri Lanka",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+      "team_2": "Afghanistan",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png",
+      "stream_link": "https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
+    },
+    {
+      "event_catagory": "cricket",
+      "event_name": "PSL, 2024",
+      "match_id": 93841,
+      "match_name": "Lahore Qalandars vs Quetta Gladiators",
+      "team_1": "Lahore Qalandars",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAQ@2x.png",
+      "team_2": "Quetta Gladiators",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QG@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/TLNc7jxWRJOBeucht4vovA/master.m3u8"
+    },
+    {
+      "event_catagory": "football",
+      "event_name": "AFC Cup",
+      "match_id": 93655,
+      "match_name": "Al-Nahda Muscat Club vs Al Riffa",
+      "team_1": "Al-Nahda Muscat Club",
+      "team_1_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NAHD@2x.png",
+      "team_2": "Al Riffa",
+      "team_2_flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARFFA@2x.png",
+      "stream_link": "https://dai.google.com/linear/hls/event/LBwL-sIVQRiBoHdXjsZWag/master.m3u8"
+    }
+  ]
+}
