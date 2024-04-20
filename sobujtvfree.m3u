@@ -17,36 +17,25 @@ http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 http://tv4.hoichoi24.com:8080/1102/tracks-a1/index.fmp4.m3u8
 
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-https://catowrap.live/mrgamingsscric.m3u8
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
+
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Willow HD IPL 2024
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Willow HD IPL 2024
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Willow HD IPL 2024
 http://xtv.ooo:8080/live/T4S00515/820172/220061.ts
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Willow IPL 2024
 http://xtv.ooo:8080/adnankb2006/86057314/167583
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/422
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/421
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Willow IPL 2024
 http://watchindia.net:8880/live/68601/37511/1067.ts
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/52293
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/2905
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Astro Criket IPL 2024
 http://watchindia.net:8880/live/68601/37511/2174.ts
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-http://sonyiptv.net:8080/waqasin/002810/247171
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/490
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg",Star Sports 1 IPL 2024
 http://startv365.com:80/9794783213/6955630461/187268
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Star Sports 2 IPL 2024
 http://startv365.com:80/9794783213/6955630461/378740
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Willow IPL 2024
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-https://mlb.mrgamingstreams.com/variety1.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",Willow HD
 http://xtv.ooo:8080/live/T4S00515/820172/347333.ts
