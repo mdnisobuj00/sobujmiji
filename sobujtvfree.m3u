@@ -7,30 +7,8 @@
 
 <script>
 #EXTM3U
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.postimg.cc/x87PtjLZ/nisobujmiji.png",Sobuj Tv
-https://i.imgur.com/jP1nVBo.mp4
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/JnLQCyxW/Z-1.jpg",Ban Vs SL Live
-https://freeiptv25.netlify.app/live/stream_8.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/JnLQCyxW/Z-1.jpg",Ban Vs SL Live
-http://tinyurl.com/gtv-lives
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/JnLQCyxW/Z-1.jpg",Ban Vs SL Live
-http://tinyurl.com/tfrkhuzn
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/JnLQCyxW/Z-1.jpg",Ban Vs SL Live
-https://catowrap.live/mrgamingbtsport1.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/JnLQCyxW/Z-1.jpg",Ban Vs SL Live
-http://xtv.ooo:8080/live/T4S00515/820172/347333.ts
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/JnLQCyxW/Z-1.jpg",Ban Vs SL Live
-http://t-tvpremium.xyz:8880/sajjad30/83837473742/1411
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/JnLQCyxW/Z-1.jpg",Ban Vs SL Live
-http://tv.cloudcdn.me/live/00:1A:79:17:C0:8F/SN_1697176355/125423.m3u8
-
-
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.postimg.cc/0j6gHQJR/2Q-1.jpg",T sports HD
-https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.postimg.cc/0j6gHQJR/2Q-1.jpg",T sports FHD (Sky Feed) Wifi Only
 http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.postimg.cc/0j6gHQJR/2Q-1.jpg",T sports Hoichoi
-http://tv4.hoichoi24.com:8080/1101/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png", GTV HD (Sky Feed) Wifi Only
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT BPL 2024" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png", GTV FHD
@@ -40,13 +18,9 @@ http://tv4.hoichoi24.com:8080/1102/tracks-a1/index.fmp4.m3u8
 
 
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-http://103.120.172.74:4600
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 https://daem.short.gy/IPL2024LIVE_FreeDishBhai
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 https://catowrap.live/mrgamingsscric.m3u8
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-https://catowrap.live/mrgamingcric.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://xtv.ooo:8080/live/T4S00515/820172/220061.ts
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
@@ -57,16 +31,28 @@ http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/422
 http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/421
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://watchindia.net:8880/live/68601/37511/1067.ts
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/52293
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/2905
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://watchindia.net:8880/live/68601/37511/2174.ts
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://sonyiptv.net:8080/waqasin/002810/247171
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/490
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://startv365.com:80/9794783213/6955630461/187268
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://startv365.com:80/9794783213/6955630461/378740
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 https://mlb.mrgamingstreams.com/variety1.m3u8
-
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",Willow HD
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
+http://xtv.ooo:8080/live/T4S00515/820172/347333.ts
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="", Ten Sports
 http://xtv.ooo:8080/live/T4S00515/820172/220063.ts
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="", A Sports
@@ -5916,4 +5902,6 @@ https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=226&e=.m3u8
 https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=227&e=.m3u8
 #EXTINF:-1 tvg-id="228" tvg-name="BOLLYWOOD 4U" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b81412fe-c4c7-417a-af81-05e7ca8aadc2_180x180_Bollywood4ulogo.jpg" tvg-chno="228" group-title="AynaOTT (Sobuj)",BOLLYWOOD 4U
 https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=228&e=.m3u8
+
+
 </script>
