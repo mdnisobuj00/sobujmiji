@@ -18,9 +18,9 @@ http://tv4.hoichoi24.com:8080/1102/tracks-a1/index.fmp4.m3u8
 
 
 
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Willow HD IPL 2024
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", T Sports IPL 2024
 http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Willow HD IPL 2024
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", GTV IPL 2024
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Willow HD IPL 2024
 http://xtv.ooo:8080/live/T4S00515/820172/220061.ts
@@ -32,26 +32,26 @@ http://watchindia.net:8880/live/68601/37511/1067.ts
 http://watchindia.net:8880/live/68601/37511/2174.ts
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg",Star Sports 1 IPL 2024
 http://startv365.com:80/9794783213/6955630461/187268
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Star Sports 1
+http://xtv.ooo:8080/live/T4S00515/820172/220063.ts
+#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg",Star Sports 1
+http://103.120.172.74:4600
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Star Sports 2 IPL 2024
 http://startv365.com:80/9794783213/6955630461/378740
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", Willow IPL 2024
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",Willow HD
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg",Willow HD
 http://xtv.ooo:8080/live/T4S00515/820172/347333.ts
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="", Ten Sports
-http://xtv.ooo:8080/live/T4S00515/820172/220063.ts
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="", A Sports
 http://xtv.ooo:8080/87658765/91747291/219689
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="",Willow HD
 http://xtv.ooo:8080/live/T4S00515/820172/347333.ts
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="",WILLOW XTRA
 http://xtv.ooo:8080/live/T4S00515/820172/347334.ts
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="",Star Sports 1
-http://103.120.172.74:4600
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/HkVbDBrD/icc-2024.jpg",ICC World Cup 2024- CricLife 3
 http://tv.cloudcdn.me/live/00:1A:79:17:C0:8F/SN_1697176355/125423.m3u8
 http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/2905
+
 H-Miji-Sobuj-BD-TV
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.postimg.cc/tCVQ8NP6/peace-tv-bn.jpg",Peace Tv
 https://shorturl.at/cux14
@@ -91,29 +91,14 @@ http://tinyurl.com/mry4rsty
 http://tinyurl.com/59jsbh74
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.postimg.cc/d1ShC6gG/Z-4.jpg",Takbeer TV
 http://tinyurl.com/ycx32nua
-
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.postimg.cc/1XGZS504/Z-2.jpg",Madina Tv
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.postimg.cc/HkLFZtNr/2Q-6.jpg",Makkah Tv
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Islamic By Sobuj" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",Quran Bangla
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1,ION TV UK
-http://t-tvpremium.xyz:8880/sajjad30/83837473742/4666
-#EXTINF:-1,IQRA BANGLA TV
-http://t-tvpremium.xyz:8880/sajjad30/83837473742/2525
-#EXTINF:-1,ISLAM TV
-http://t-tvpremium.xyz:8880/sajjad30/83837473742/3150
-#EXTINF:-1,ISLAM CHANNEL UK
-http://t-tvpremium.xyz:8880/sajjad30/83837473742/13870
-EXTINF:-1,SAUDI QURAN
-http://t-tvpremium.xyz:8880/sajjad30/83837473742/14371
-#EXTINF:-1,SAUDI SUNNAH
-http://t-tvpremium.xyz:8880/sajjad30/83837473742/14372
-#EXTINF:-1,SAUDI SUNNAH (EBRAVO)
-http://t-tvpremium.xyz:8880/sajjad30/83837473742/14373
-http://mag.trexlive.me:80/Michael88/Michael88/225734
 #EXTINF:-1 group-title="Bangladeshi By Sobuj" tvg-logo="https://i.postimg.cc/pV3X9TJD/btv.png",BTV National (HD)
+http://mag.trexlive.me:80/Michael88/Michael88/225734
 https://freeiptv25.netlify.app/live/bdix/app/Btv.m3u8
 #EXTINF:-1 group-title="Bangladeshi By Sobuj" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
