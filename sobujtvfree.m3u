@@ -18,8 +18,6 @@ http://tv4.hoichoi24.com:8080/1102/tracks-a1/index.fmp4.m3u8
 
 
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
-https://daem.short.gy/IPL2024LIVE_FreeDishBhai
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://xtv.ooo:8080/live/T4S00515/820172/220061.ts
@@ -49,9 +47,8 @@ http://startv365.com:80/9794783213/6955630461/378740
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 https://mlb.mrgamingstreams.com/variety1.m3u8
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",Willow HD
-#EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="https://i.postimg.cc/5NhZNXmn/9k-2.jpg", IPL 2024
 http://xtv.ooo:8080/live/T4S00515/820172/347333.ts
 #EXTINF:-1 group-title="& LIVE EVENT" tvg-logo="", Ten Sports
 http://xtv.ooo:8080/live/T4S00515/820172/220063.ts
